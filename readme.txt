@@ -1,2 +1,2 @@
-git test 
-learn git how to use
+Git is a distributed version control system.
+Git is free software.
